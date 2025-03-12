@@ -2,8 +2,7 @@
 
 This repository contains a beautiful, responsive personal portfolio built using **React**, **Vite**, and **TailwindCSS**. The project showcases modern web development techniques including smooth animations, responsive layouts, and interactive UI components.
 
-### Want to watch this?
-[![Check this out](https://img.youtube.com/vi/LGdPMf-SgBA/maxresdefault.jpg)](https://youtu.be/LGdPMf-SgBA)
+
 
 
 ## Features
@@ -20,14 +19,8 @@ This repository contains a beautiful, responsive personal portfolio built using 
 - **TailwindCSS:** Utility-first CSS framework.
 - **JavaScript (ES6+):** Modern JavaScript features and best practices.
 
-## Installation
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-   cd your-portfolio
-   ```
 
 2. **Install dependencies:**
 
@@ -41,7 +34,7 @@ This repository contains a beautiful, responsive personal portfolio built using 
    npm run dev
    ```
 
-   The application should now be running at [http://localhost:5173](http://localhost:5173).
+  
 
 ## Build
 
@@ -91,9 +84,6 @@ your-portfolio/
 
 Contributions are welcome! Please open an issue or submit a pull request with improvements.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
